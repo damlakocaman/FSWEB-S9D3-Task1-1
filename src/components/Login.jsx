@@ -5,7 +5,7 @@ import { toast } from 'react-toastify';
 
 import axios from 'axios';
 
-const initialForm = {
+const initialForm = { 
   email: '',
   password: '',
 };

@@ -7,7 +7,7 @@ import Products from './components/Products';
 import SideBar from './components/SideBar';
 import Login from './components/Login';
 
-import './App.css';
+import './App.css'; 
 import './components/Layout.css';
 import ErrorPage from './components/ErrorPage';
 import { ToastContainer } from 'react-toastify';

@@ -4,7 +4,7 @@ import {Button} from 'reactstrap';
 function Header(props) {
   const history = useHistory();
 
-  return (
+  return ( 
     <>
       <header>
         <h1>WiStore Products</h1>

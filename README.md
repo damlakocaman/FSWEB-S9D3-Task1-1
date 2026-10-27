@@ -15,7 +15,7 @@ Daha önce yaptığın alışveriş sitesinde bunu uygulamak istiyorsun. Hem ema
 [ ] sayfa yüklenirken initialForm bilgileri boş string. eğer localStorage'da `email` key'ine karşılık gelen bir değer varsa email alanını bu bilgi ile başlatabilirsin.
 [ ] hem email, hem de password alanına autoFocus attibute'u ekleyebilir, bunların true veya false olmasını localStorage'daki `email` key'inin değerine bağlı oluşmasını sağlayabilirsin.
 
-- İpucu: input alanlarındaki autofocus attribute'una w3schools'dan bakabilirsin.
+- İpucu: input alanlarındaki autofocus attribute'una w3schools'dan bakabilirsin. 
 
 ## Önemli Notlar
 
